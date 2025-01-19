@@ -3,7 +3,7 @@
 This repository contains a Python-based tool designed for extracting, parsing, and analyzing browser artifacts from various web browsers. Browser artifacts provide valuable information for digital forensics and incident response (DFIR) investigations, such as browsing history, cookies, cache, download logs, and more.
 
 **Key Features**
-**Multi-Browser Support**: Works with popular web browsers like Chrome, Firefox, and Edge.
+**Multi-Browser Support**: Works with popular web browsers like Chrome, Firefox, and Opera.
 **Artifact Extraction**: Retrieves browser data, including history, cookies, bookmarks, and cache.
 **Decryption Capabilities**: Decodes encrypted browser data (e.g., cookies, passwords) with AES, but does not work on all machine(tried to fix this but to no avail).
 **Customizable Output**: Supports exporting results in JSON, CSV, and other formats.
