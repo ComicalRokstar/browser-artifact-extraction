@@ -5,7 +5,7 @@ This repository contains a Python-based tool designed for extracting, parsing, a
 **Key Features**
 **Multi-Browser Support**: Works with popular web browsers like Chrome, Firefox, and Edge.
 **Artifact Extraction**: Retrieves browser data, including history, cookies, bookmarks, and cache.
-**Decryption Capabilities**: Decodes encrypted browser data (e.g., cookies, passwords) with AES.
+**Decryption Capabilities**: Decodes encrypted browser data (e.g., cookies, passwords) with AES, but does not work on all machine(tried to fix this but to no avail).
 **Customizable Output**: Supports exporting results in JSON, CSV, and other formats.
 **Efficient Compression** Handling: Decodes compressed data formats like LZ4.
 
